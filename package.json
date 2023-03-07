@@ -1,0 +1,10 @@
+{
+  "name": "code2_save_access_token",
+  "version": "1.0.0",
+  "private": true,
+  "insomnia": {
+    "name": "code2_access_token",
+    "description": "Make requests to a login endpoint (ending with '/login') and save the access token to use in another requests"
+  },
+  "main": "main.js"
+}
